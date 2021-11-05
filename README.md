@@ -37,3 +37,7 @@
 <h3>📑 I'm Currently Learning DSA </h3>
 
 <h3>🔭 I’m currently working on improving my problem solving skills<h3>
+ <center>
+<img src="https://github-readme-stats.vercel.app/api?username=rishigupta1109&show_icons=true&count_private=true" alt="anuragtech02-stats" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=rishigupta1109.rishigupta1109" alt="visitors"></p>
+</center>
