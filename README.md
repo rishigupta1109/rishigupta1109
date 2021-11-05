@@ -11,7 +11,6 @@
  I'm an undergraduate student in Electronics and Telecommunication Engineering interested in Web Development and competitive coding. 
 </p>
 
-
 <h3> Skills: HTML , CSS , JS , C , C++  ,ReactJS</h3>
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,3 +40,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rishigupta1109&show_icons=true&count_private=true" alt="anuragtech02-stats" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=rishigupta1109.rishigupta1109" alt="visitors"></p>
 </center>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishigupta1109" alt="rishigupta1109" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishigupta1109&" alt="rishigupta1109" /></p>
