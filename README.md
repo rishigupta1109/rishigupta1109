@@ -29,7 +29,7 @@
 
 <h3> College: Institute of Engineering &Technology DAVV </h3> <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishigupta1109&label=Profile%20views&color=0e75b6&style=flat" alt="rishigupta1109"> </p>
+
 
 <h2 align="left"> What I am Doing? </h2>
 
@@ -37,7 +37,7 @@
 
 <h3>🔭 I’m currently working on improving my problem solving skills<h3>
  <center>
-<img src="https://github-readme-stats.vercel.app/api?username=rishigupta1109&show_icons=true&count_private=true" alt="anuragtech02-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishigupta1109&show_icons=true&count_private=true" alt="rishigupta1109-stats" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=rishigupta1109.rishigupta1109" alt="visitors"></p>
 </center>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishigupta1109" alt="rishigupta1109" /></a> </p>
