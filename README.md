@@ -72,7 +72,7 @@
 ![coronatracker](https://user-images.githubusercontent.com/84670640/144414922-3df00dde-2c4e-47b0-9200-250eb1e78e54.PNG)
  
  
- <h2> <a href="https://rishigupta1109.github.io/CoronaTracker/">Algorithm Visualiser</a> </h2> 
+ <h2> <a href="https://rishigupta1109.github.io/algorithm_visualiser/">Algorithm Visualiser</a> </h2> 
  
  <h4>This is an Algorithm visualiser which is very helpful to visualise algorithms.It features searching and sorting alogorithm till now.More will be added in future.It is made using HTML,CSS and JS </h4>
 
