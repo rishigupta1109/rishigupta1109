@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+
 <br>
 <span>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "/>
@@ -48,6 +48,13 @@
  
  
  <h1>Projects</h1>
+ 
+  <h2><a href="https://www.thebookbajaar.live/">The Book Bajaar</a> </h2>
+ 
+ <h4>The book Bajaar acts as a mediator between the buyer and the seller</h4>
+
+  ![The Book Bajaar](https://github.com/rishigupta1109/TheBookBajaar/blob/master/src/utilities/ss.png?raw=true)
+ 
  <h2><a href="https://www.linkedin.com/posts/rishi-gupta-027298204_webdevelopment-learning-reactjs-activity-6814595111528353792-OW1H">FoodBazinga</a> </h2>
  
  <h4>FoodBazinga is a food ordering web app created using ReactJs,ExpressJS,NodeJs and MongoDB </h4>
