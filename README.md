@@ -52,8 +52,8 @@
   <h2><a href="https://www.thebookbajaar.live/">The Book Bajaar</a> </h2>
  
  <h4>The book Bajaar acts as a mediator between the buyer and the seller</h4>
+![image](https://user-images.githubusercontent.com/84670640/207382887-ed2a5a57-cb8b-4b0c-b5cf-a90c94ba88f5.png)
 
-  ![The Book Bajaar](https://github.com/rishigupta1109/TheBookBajaar/blob/master/src/utilities/ss.png?raw=true)
  
  <h2><a href="https://www.linkedin.com/posts/rishi-gupta-027298204_webdevelopment-learning-reactjs-activity-6814595111528353792-OW1H">FoodBazinga</a> </h2>
  
@@ -64,8 +64,8 @@
  <h2><a href="https://rishigupta1109.github.io/Portfolio/">Personal Portfolio</a> </h2>
  
  <h4>Personal Portfolio website made using ReactJS,CSs,HTML. </h4>
+![image](https://user-images.githubusercontent.com/84670640/207383089-1f4ad08e-b3fe-4371-a09a-8de4cdb4ba0a.png)
 
- ![portfolio](https://user-images.githubusercontent.com/84670640/144414024-1a9e3fb5-91ab-4f88-a48f-e5cca61eccd2.PNG)
 
  
   <h2><a href="https://rishigupta1109.github.io/RockPaperScissor/">Rock Paper Scissor Multiplayer Online</a> </h2>
