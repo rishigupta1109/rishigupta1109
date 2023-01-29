@@ -48,6 +48,14 @@
  
  
  <h1>Projects</h1>
+  <h2><a href="https://www.thebookbajaar.live/">Blogger`s Block</a> </h2>
+ 
+ <h4>Blogger`s block is a blogging platform where anyone can share their experience and knowledge in the form of blog.</h4>
+
+![image](https://user-images.githubusercontent.com/84670640/215348811-fe447481-5590-4f32-9491-e65d6266bc2e.png)
+
+
+
  
   <h2><a href="https://www.thebookbajaar.live/">The Book Bajaar</a> </h2>
  
