@@ -49,7 +49,7 @@
  
  
  <h1>Projects</h1>
-  <h2><a href="https://www.thebookbajaar.live/">Blogger`s Block</a> </h2>
+  <h2><a href="https://bloggers-block.vercel.app/">Blogger`s Block</a> </h2>
  
  <h4>Blogger`s block is a blogging platform where anyone can share their experience and knowledge in the form of blog.</h4>
 
@@ -58,7 +58,7 @@
 
 
  
-  <h2><a href="https://www.thebookbajaar.live/">The Book Bajaar</a> </h2>
+  <h2><a href="https://thebookbajaar.vercel.app/">The Book Bajaar</a> </h2>
  
  <h4>The book Bajaar acts as a mediator between the buyer and the seller</h4>
 
@@ -71,7 +71,7 @@
 
   ![foodstore](https://user-images.githubusercontent.com/84670640/144411975-4c571f4e-713e-4986-996c-6eeb124f40c8.PNG)
  
- <h2><a href="https://rishigupta1109.github.io/Portfolio/">Personal Portfolio</a> </h2>
+ <h2><a href="https://rishigupta.vercel.app/">Personal Portfolio</a> </h2>
  
  <h4>Personal Portfolio website made using ReactJS,CSs,HTML. </h4>
  
@@ -79,7 +79,7 @@
 
 
  
-  <h2><a href="https://rishigupta1109.github.io/RockPaperScissor/">Rock Paper Scissor Multiplayer Online</a> </h2>
+  <h2><a href="https://ropasc.vercel.app/">Rock Paper Scissor Multiplayer Online</a> </h2>
  
  <h4>Rock paper scissor is a multiplayer online game made using html,css,js,socket.io and nodeJS. </h4>
 
